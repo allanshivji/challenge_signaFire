@@ -1,0 +1,71 @@
+.card-component{
+    top: 65px;
+    position: relative;
+    padding: 25px;
+}
+.card-padding{
+    padding: 15px;
+}
+.img-fluid{
+    width: 183px;
+}
+.text-secondary{
+    font-size: 13px;
+}
+.abc{
+    width:100%;
+}
+.btn-outline-dark:hover {
+    background-color: rgb(201, 158, 56);
+}
+.container {
+    margin-left: 15px;
+}
+p{
+    font-size: 14px;
+}
+.image-text-center{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.cardPadding {
+    margin-top: 20px;
+}
+.starredBtn{
+    background-color: rgb(201, 158, 56);
+    color: white;
+}
+.starredBtn:hover{
+    background-color: white;
+    color: rgb(201, 158, 56);
+}
+.notStarredBtn{
+    background-color: white;
+}
+.btnMargin{
+    margin-left: 5px;
+}
+.btn{
+    border-top-right-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+}
+.trashBtn{
+    background-color: #ff4007 !important;
+    color: #ffffff !important;
+}
+.mr-2{
+    right: 0px !important;
+position: absolute !important;
+}
+.container{
+    margin-top: 30px;
+}
+.starCount{
+    font-weight: bold;
+    font-size: 6vh;
+}
+.highlightText{
+    background-color: rgb(255, 243, 72);
+}
